@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626715322 source:c:\users\omar\documents\programacion estructurada\reto6\main.c
+	<stdio.h>
+	<stdlib.h>
+

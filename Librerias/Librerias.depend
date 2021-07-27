@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627317864 source:c:\users\omar\documents\programacion estructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1627316274 c:\users\omar\documents\programacion estructurada\librerias\operaciones.h
+
